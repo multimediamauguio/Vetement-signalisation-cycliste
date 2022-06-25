@@ -49,4 +49,13 @@ Assemblage des composants :
 ![compoBoitierHarnais](https://user-images.githubusercontent.com/108124823/175765704-1a3d2fb7-cfdd-4171-a448-af9cc99f5024.jpg)
 ![guidon2](https://user-images.githubusercontent.com/108124823/175765716-974c4ef9-4064-4d16-969c-eba6b0c9e89f.jpg)
 ![Assemblage_Guidon_4](https://user-images.githubusercontent.com/108124823/175765746-45551d1c-c8f3-4f23-aee7-9c90409d53a7.jpg)
-![Assemblage_Guidon_3](https://user-images.githubusercontent.com/108124823/175765756-2ac84471-83d3-4441-be1c-75465cbcbdde.jpg)
+![Assemblage_Guidon_3](https://user-images.githubusercontent.com/108124823/175765756-2ac84471-83d3-4441-be1c-75465cbcbdde.jpg)  
+
+
+Branchements :  
+
+![branchement_leds](https://user-images.githubusercontent.com/108124823/175765856-2c30a1f3-d0f9-4dce-824e-6f7ba8621726.jpg)  
+![Branchements_harnais](https://user-images.githubusercontent.com/108124823/175766050-6bc28e72-320c-426e-9d46-670112fd6a15.png)
+![Branchements_guidon](https://user-images.githubusercontent.com/108124823/175766047-cfd040e8-0f04-480e-ac1d-e920cfef08b5.png)
+
+
