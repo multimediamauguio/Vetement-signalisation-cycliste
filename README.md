@@ -61,8 +61,8 @@ GND	  --> 	GND
 VCC	  --> 	3V  
 
 Condensateur 	-->	 LolinD32  
-+ 		--> 	3V  
-- 		--> 	GND  
+'+ 		--> 	3V  
+'- 		--> 	GND  
  
 Lolin	-->	Led  
 17 	--> 	Led  
