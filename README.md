@@ -22,7 +22,7 @@ Caractéristiques du dispositif :
 •	Étanche  
 •	Le dispositif sera libre de droits et reproductible  
   
-Composants nécessaires :  
+_Composants nécessaires :_  
 [Microcontrôleur LOLIN D32](https://www.aliexpress.com/item/32808551116.html?spm=a2g0o.cart.0.0.5c353c006lJBEE&mp=1)  
 [Bande LED 5m 30leds/m](https://www.aliexpress.com/item/32336809966.html?spm=a2g0o.cart.0.0.5c353c006lJBEE&mp=1)  
 [Platine de prototypage](https://www.aliexpress.com/item/765383366.html)  
@@ -34,4 +34,10 @@ Composants nécessaires :
 [Transmetteur / Récepteur RF 433Mhz](https://www.aliexpress.com/store/5435161)  
 [support pile cr2032](https://www.amazon.fr/gp/product/B07MJG6XZR/)  
 [Module de capteur MPU6050](https://www.aliexpress.com/store/910708006)  
+[Tissu imperméable jaune uni](https://www.mondialtissus.fr/tissu-impermeable-jaune-uni-152697.html)  
+[Boucles réglables](https://www.mondialtissus.fr/boucles-reglables-noires-en-plastique-32-mm-131007.html)  
+[Boucles à ouverture rapide](https://www.mondialtissus.fr/boucles-a-ouverture-rapide-noires-en-plastique-30-mm-130987.html)  
+[Ruban réfléchissant](https://www.mondialtissus.fr/ruban-reflechissant-20-mm-155143.html)  
+[Sanglesangle](https://www.mondialtissus.fr/sangle-coton-renforcee-marine-30mm-251337.html)  
+
 
