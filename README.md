@@ -39,5 +39,7 @@ _Composants nécessaires :_
 [Boucles à ouverture rapide](https://www.mondialtissus.fr/boucles-a-ouverture-rapide-noires-en-plastique-30-mm-130987.html)  
 [Ruban réfléchissant](https://www.mondialtissus.fr/ruban-reflechissant-20-mm-155143.html)  
 [Sangles](https://www.mondialtissus.fr/sangle-coton-renforcee-marine-30mm-251337.html)  
+[Velcro](https://www.mondialtissus.fr/bande-agrippante-a-coudre-20mm-noir-20130.html)  
+[Velcro](https://www.mondialtissus.fr/bande-agrippante-a-coudre-20mm-noir-20129.html)  
 
 
