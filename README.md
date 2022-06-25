@@ -38,6 +38,6 @@ _Composants nécessaires :_
 [Boucles réglables](https://www.mondialtissus.fr/boucles-reglables-noires-en-plastique-32-mm-131007.html)  
 [Boucles à ouverture rapide](https://www.mondialtissus.fr/boucles-a-ouverture-rapide-noires-en-plastique-30-mm-130987.html)  
 [Ruban réfléchissant](https://www.mondialtissus.fr/ruban-reflechissant-20-mm-155143.html)  
-[Sanglesangle](https://www.mondialtissus.fr/sangle-coton-renforcee-marine-30mm-251337.html)  
+[Sangles](https://www.mondialtissus.fr/sangle-coton-renforcee-marine-30mm-251337.html)  
 
 
