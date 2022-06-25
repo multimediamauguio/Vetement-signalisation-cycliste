@@ -54,8 +54,8 @@ Assemblage des composants :
 
 Branchements :  
 
-![branchement_leds](https://user-images.githubusercontent.com/108124823/175765856-2c30a1f3-d0f9-4dce-824e-6f7ba8621726.jpg|width=100)  
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/108124823/175765856-2c30a1f3-d0f9-4dce-824e-6f7ba8621726.jpg" width="100">
+![branchement_leds](https://user-images.githubusercontent.com/108124823/175765856-2c30a1f3-d0f9-4dce-824e-6f7ba8621726.jpg|width=100){ width=50% }
+
 ![Branchements_harnais](https://user-images.githubusercontent.com/108124823/175766050-6bc28e72-320c-426e-9d46-670112fd6a15.png)
 ![Branchements_guidon](https://user-images.githubusercontent.com/108124823/175766047-cfd040e8-0f04-480e-ac1d-e920cfef08b5.png)
 
