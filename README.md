@@ -1,5 +1,6 @@
 # Vetement-signalisation-cycliste  
 ![IMG_20220625_114429667](https://user-images.githubusercontent.com/108124823/175769313-4addca8f-dc7b-4859-92a0-b45696a9cf39.jpg)
+![harnais](https://user-images.githubusercontent.com/108124823/175770679-75e8b311-4be9-464f-85f0-945ea592a196.gif)
 
 ![clignotant2](https://user-images.githubusercontent.com/108124823/175512643-5c798f9b-81e3-4ad1-9dbe-0f052b269e5d.gif)
 ![Ensemble guidon](https://user-images.githubusercontent.com/108124823/175767701-7057224c-7b3c-4e59-a178-898d37f16709.JPG)
