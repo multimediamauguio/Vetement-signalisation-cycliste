@@ -52,6 +52,62 @@ Assemblage des composants :
 
 
 Branchements :  
+Boîtier harnais  
+MPU6050	--> Lolin D32  
+SDA 	--> 	SDA  
+SCL 	--> 	SCL  
+GND	  --> 	GND  
+VCC	  --> 	3V  
+
+Condensateur 	-->	 LolinD32  
++ 		--> 	3V  
+- 		--> 	GND  
+Batterie	--> 	Interrupteur  
++ 	--> 	Interrupteur  
+Batterie	--> 	LolinD32  
+- 	--> 	GND  
+Interrupteur --> 	LolinD32   
+ --> Bat  
+ 
+Lolin	-->	Led  
+17 	--> 	Led  
+GND 	--> 	GND  
+3v 	--> 	+5V  
+
+Lolin	-->	Led  
+16 	--> 	Led  
+GND	 --> 	GND  
+3v 	--> 	+5V  
+
+Récepteur radio	--> Lolin D32  
++ 		--> 	3V  
+- 		--> 	GND  
+D0 		--> 	32  
+D1 		--> 	33  
+D2		--> 	25  
+D3		--> 	26  
+
+Boîtier guidon  
+
+Joystick 	-->	Radio		<--	Pile  
+Com 		--> 	-		<--	-  
+			+		<--	+		  
+UP		-->	4  
+Dwn		-->	3  
+Let		-->	2  
+Rht		-->	1  
+Mid		-->	1, 2, 3 ou 4  
+SET  
+RST  
+
+
+
+
+
+
+
+
+
 ![Branchement_leds2](https://user-images.githubusercontent.com/108124823/175767532-a591395b-0c78-4f4d-bc59-54929e9604a4.jpg)  
 ![Branchements_harnais](https://user-images.githubusercontent.com/108124823/175768027-864a68fd-2716-4991-8578-68a4b3f28c3a.png)
 
