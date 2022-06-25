@@ -3,7 +3,7 @@
 ![Ensemble guidon](https://user-images.githubusercontent.com/108124823/175512770-5b556bfb-1960-49c7-ab31-88e1a8b57482.JPG)
 ![ensemble harnais](https://user-images.githubusercontent.com/108124823/175512780-6ce04507-3ea4-48b3-879a-c28a9598bdf3.JPG)
 
-Projet réalisé à la médiathèque Gaston Baissette de décembre 2021 à juin 2022  
+Projet réalisé à la médiathèque Gaston Baissette de Mauguio de décembre 2021 à juin 2022  
 
 L’atelier porte sur la réalisation d’un dispositif de signalisation de changement de direction et de freinage pour les utilisateurs de vélo.
 Cet objet à vocation à être installés de manière simple et rapide sur l’utilisateur et sur le vélo et doit permettre :
@@ -43,9 +43,6 @@ _Composants nécessaires :_
 [Velcro](https://www.mondialtissus.fr/bande-agrippante-a-coudre-20mm-noir-20129.html)  
 
 Assemblage des composants :  
-
-
-
 ![compoBoitierHarnais](https://user-images.githubusercontent.com/108124823/175765704-1a3d2fb7-cfdd-4171-a448-af9cc99f5024.jpg)
 ![guidon2](https://user-images.githubusercontent.com/108124823/175765716-974c4ef9-4064-4d16-969c-eba6b0c9e89f.jpg)
 ![Assemblage_Guidon_4](https://user-images.githubusercontent.com/108124823/175765746-45551d1c-c8f3-4f23-aee7-9c90409d53a7.jpg)
