@@ -1,4 +1,6 @@
-# Vetement-signalisation-cycliste
+# Vetement-signalisation-cycliste  
+![IMG_20220625_114429667](https://user-images.githubusercontent.com/108124823/175769313-4addca8f-dc7b-4859-92a0-b45696a9cf39.jpg)
+
 ![clignotant2](https://user-images.githubusercontent.com/108124823/175512643-5c798f9b-81e3-4ad1-9dbe-0f052b269e5d.gif)
 ![Ensemble guidon](https://user-images.githubusercontent.com/108124823/175767701-7057224c-7b3c-4e59-a178-898d37f16709.JPG)
 ![ensemble harnais](https://user-images.githubusercontent.com/108124823/175767705-33e753d2-a4e4-4871-93cb-6c4ea6533d2a.JPG)
@@ -7,8 +9,8 @@
 Projet réalisé à la médiathèque Gaston Baissette de Mauguio de décembre 2021 à juin 2022  
 
 L’atelier porte sur la réalisation d’un dispositif de signalisation de changement de direction et de freinage pour les utilisateurs de vélo.
-Cet objet à vocation à être installés de manière simple et rapide sur l’utilisateur et sur le vélo et doit permettre :
-•	d'avertir (avant et arrière), lors de vos intentions de tourner et ou bien de freiner.
+Cet objet à vocation à être installés de manière simple et rapide sur l’utilisateur et sur le vélo et doit permettre :  
+d'avertir (avant et arrière), lors de vos intentions de tourner et ou bien de freiner.
 
 Caractéristiques du dispositif :  
 
