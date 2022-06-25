@@ -42,4 +42,9 @@ _Composants nécessaires :_
 [Velcro](https://www.mondialtissus.fr/bande-agrippante-a-coudre-20mm-noir-20130.html)  
 [Velcro](https://www.mondialtissus.fr/bande-agrippante-a-coudre-20mm-noir-20129.html)  
 
+Assemblage des composants :  
 
+
+
+![compoBoitierHarnais](https://user-images.githubusercontent.com/108124823/175765704-1a3d2fb7-cfdd-4171-a448-af9cc99f5024.jpg)
+![guidon2](https://user-images.githubusercontent.com/108124823/175765716-974c4ef9-4064-4d16-969c-eba6b0c9e89f.jpg)
