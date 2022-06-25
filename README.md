@@ -75,8 +75,8 @@ GND	 --> 	GND
 3v 	--> 	+5V  
 
 Récepteur radio	--> Lolin D32  
-+ 		--> 	3V  
-- 		--> 	GND  
+'+ 		--> 	3V  
+'- 		--> 	GND  
 D0 		--> 	32  
 D1 		--> 	33  
 D2		--> 	25  
