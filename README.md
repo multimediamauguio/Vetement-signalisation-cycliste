@@ -51,35 +51,38 @@ Assemblage des composants :
 ![Assemblage_Guidon_3](https://user-images.githubusercontent.com/108124823/175768008-ed8f8d25-5d03-4398-a11d-af3a2e2e7f47.jpg)  
 
 
-Branchements :  
-Boîtier harnais  
-MPU6050	--> Lolin D32  
+##Titre Branchements :  
+_Boîtier harnais_  
+_MPU6050	--> Lolin D32_  
 SDA 	--> 	SDA  
 SCL 	--> 	SCL  
 GND	  --> 	GND  
 VCC	  --> 	3V  
 
-Condensateur 	-->	 LolinD32  
+_Condensateur 	-->	 LolinD32_  
 + 		--> 	3V  
 - 		--> 	GND  
-Batterie	--> 	Interrupteur  
+
+_Batterie	--> 	Interrupteur_  
 + 	--> 	Interrupteur  
-Batterie	--> 	LolinD32  
+
+_Batterie	--> 	LolinD32_  
 - 	--> 	GND  
-Interrupteur --> 	LolinD32   
+
+_Interrupteur --> 	LolinD32_   
  --> Bat  
  
-Lolin	-->	Led  
+_Lolin	-->	Led_  
 17 	--> 	Led  
 GND 	--> 	GND  
 3v 	--> 	+5V  
 
-Lolin	-->	Led  
+_Lolin	-->	Led_  
 16 	--> 	Led  
 GND	 --> 	GND  
 3v 	--> 	+5V  
 
-Récepteur radio	--> Lolin D32  
+_Récepteur radio	--> Lolin D32_  
 + 		--> 	3V  
 - 		--> 	GND  
 D0 		--> 	32  
@@ -87,9 +90,9 @@ D1 		--> 	33
 D2		--> 	25  
 D3		--> 	26  
 
-Boîtier guidon  
+##Titre Boîtier guidon  
 
-Joystick 	-->	Radio		<--	Pile  
+_Joystick 	-->	Radio		<--	Pile_  
 Com 		--> 	-		<--	-  
 			+		<--	+		  
 UP		-->	4  
