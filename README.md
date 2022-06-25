@@ -23,15 +23,15 @@ Caractéristiques du dispositif :
 •	Le dispositif sera libre de droits et reproductible  
   
 Composants nécessaires :  
-Microcontrôleur LOLIN D32 - https://www.aliexpress.com/item/32808551116.html?spm=a2g0o.cart.0.0.5c353c006lJBEE&mp=1  
-Bande LED 5m 30leds/m  - https://www.aliexpress.com/item/32336809966.html?spm=a2g0o.cart.0.0.5c353c006lJBEE&mp=1  
-Platine de prototypage - https://www.aliexpress.com/item/765383366.html  
-Condensateur 1000 µF - https://www.amazon.fr/gp/product/B07X3LYPPG/  
-Joystick à bascule - https://www.amazon.fr/gp/product/B07QM88HP2/  
-Batterie Lipo 2000 mAh - https://hobbyking.com/en_us/turnigy-2000mah-1s-1c-lipoly-w-2-pin-jst-ph-connector.html  
-Cable silicone 28 AWG - https://www.aliexpress.com/item/32791720338.html  
-Lot Broches Femelles - https://www.aliexpress.com/item/4000523047541.html  
-Transmetteur / Récepteur RF 433Mhz - https://www.aliexpress.com/store/5435161  
-support pile cr2032 - https://www.amazon.fr/gp/product/B07MJG6XZR/  
-Module de capteur MPU6050 - https://www.aliexpress.com/store/910708006  
+[Microcontrôleur LOLIN D32](https://www.aliexpress.com/item/32808551116.html?spm=a2g0o.cart.0.0.5c353c006lJBEE&mp=1)  
+[Bande LED 5m 30leds/m] (https://www.aliexpress.com/item/32336809966.html?spm=a2g0o.cart.0.0.5c353c006lJBEE&mp=1)  
+[Platine de prototypage] (https://www.aliexpress.com/item/765383366.html)  
+[Condensateur 1000 µF] (https://www.amazon.fr/gp/product/B07X3LYPPG/)  
+[Joystick à bascule] (https://www.amazon.fr/gp/product/B07QM88HP2/)  
+[Batterie Lipo 2000 mAh] (https://hobbyking.com/en_us/turnigy-2000mah-1s-1c-lipoly-w-2-pin-jst-ph-connector.html)  
+[Cable silicone 28 AWG] (https://www.aliexpress.com/item/32791720338.html)  
+[Lot Broches Femelles] (https://www.aliexpress.com/item/4000523047541.html)  
+[Transmetteur / Récepteur RF 433Mhz] (https://www.aliexpress.com/store/5435161)  
+[support pile cr2032] (https://www.amazon.fr/gp/product/B07MJG6XZR/)  
+[Module de capteur MPU6050] (https://www.aliexpress.com/store/910708006)  
 
